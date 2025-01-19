@@ -26,7 +26,7 @@ Just launch the shell script with parameters.
 
 #### How to contribute
 
-You can give feedbac, follow, fork it and more.
+You can give feedback, follow, fork it and more.
 
 
 ---
